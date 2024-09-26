@@ -1,12 +1,12 @@
 import Footer from "@/components/layout/footer";
 import Navbar from "@/components/layout/navbar";
 import Benefits from "@/components/sections/benefits";
-import Collaboration from "@/components/sections/collaboration";
+// import Collaboration from "@/components/sections/collaboration";
 import Demo from "@/components/sections/Demo";
 import Hero from "@/components/sections/hero";
-import Pricing from "@/components/sections/pricing";
-import Roadmap from "@/components/sections/roadmap";
-import Services from "@/components/sections/services";
+// import Pricing from "@/components/sections/pricing";
+// import Roadmap from "@/components/sections/roadmap";
+// import Services from "@/components/sections/services";
 import ButtonGradient from "@/components/svg/button-gradient";
 import { cn } from "@/lib/utils";
 
